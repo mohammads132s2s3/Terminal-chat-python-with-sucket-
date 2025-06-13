@@ -64,16 +64,6 @@ One for sending messages
 
 ---
 
-📁 Project Structure
-
-terminal-chat/
-├── client.py       # Client-side code
-├── server.py       # Server-side code
-├── preview.png     # Screenshot of the chat in action
-└── README.md       # Project documentation
-
-
----
 
 🛠 Features
 
