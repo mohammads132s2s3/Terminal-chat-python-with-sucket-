@@ -118,13 +118,6 @@ Change 50505 to any available port number.
 
 ---
 
-🪪 License
-
-This project is licensed under the MIT License.
-
-
----
-
 ✍️ Author
 
 Made with ❤️ by [Your Name]
