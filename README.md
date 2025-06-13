@@ -1,21 +1,14 @@
  #💬 Terminal Chat App (Python Socket Programming)
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/your-username/terminal-chat?style=social)](https://github.com/your-username/terminal-chat/stargazers)
+
+
 
 A simple terminal-based chat app using sockets in Python.  
 Real-time messaging between multiple clients and a central server — all via your terminal.
 
 ---
 
-## 📸 Preview
-
-![Chat Preview](preview.png) <!-- Replace this with a real screenshot -->
-
-> Example of two clients connected to the same server and chatting.
-
----
 
 ## ⚙️ Requirements
 
