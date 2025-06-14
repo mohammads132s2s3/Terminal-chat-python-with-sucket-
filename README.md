@@ -45,7 +45,7 @@ You can start multiple clients this way.
 
 ---
 
-🧠 How It Works
+##🧠 How It Works
 
 The server listens for incoming connections using Python sockets.
 
@@ -65,7 +65,7 @@ One for sending messages
 ---
 
 
-🛠 Features
+##🛠 Features
 
 ✅ Real-time messaging
 
@@ -81,7 +81,7 @@ One for sending messages
 
 ---
 
-🧪 Troubleshooting
+##🧪 Troubleshooting
 
 ❗ Port Already in Use (WinError 10048)
 
@@ -99,7 +99,7 @@ Make sure the server is running before starting the client, and IP/port is corre
 
 ---
 
-🔧 Customization
+##🔧 Customization
 
 Change Port or IP
 
@@ -118,7 +118,7 @@ Change 50505 to any available port number.
 
 ---
 
-✍️ Author
+##✍️ Author
 
 Made with ❤️ by [Your Name]
 GitHub: https://github.com/mohammads132s2s3
