@@ -21,8 +21,8 @@ Real-time messaging between multiple clients and a central server — all via yo
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/terminal-chat.git
-cd terminal-chat
+git clone https://github.com/mohammads132s2s3/Terminal-chat-python-with-sucket-.git
+
 
 2. Start the Server
 
