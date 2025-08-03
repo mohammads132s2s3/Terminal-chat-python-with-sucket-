@@ -1,4 +1,4 @@
- #💬 Terminal Chat App (Python Socket Programming)
+## 💬 Terminal Chat App (Python Socket Programming)
 
 [![Python](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)
 
